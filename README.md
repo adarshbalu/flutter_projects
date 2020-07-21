@@ -1,2 +1,2 @@
-# flutter_projects
-A repo for all the projects done on Flutter
+# Flutter Projects 
+A repo for all the projects done on Flutter.
