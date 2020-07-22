@@ -6,4 +6,8 @@ Covid tracker with global data as well as updated Indian data as well.
 <br>
 Repo link : [Covid Track](https://github.com/adarshbalu/covid_track)
 
+### Moooviex
+Movie and TV show search app made using BLOC pattern.
+<br>
+Repo link : [Moooviex](https://github.com/adarshbalu/moooviex)
 
