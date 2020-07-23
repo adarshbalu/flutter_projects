@@ -16,3 +16,8 @@ Complete Elderly Care Application with reminders and other handly features for e
 <br>
 Repo link : [Elderly Care](https://github.com/adarshbalu/elderly_app)
 
+### Elderly Companion
+Companion app for Elderly Care Application with health trackers and documents viewing.
+<br>
+Repo link : [Elderly Companion](https://github.com/adarshbalu/elderly_companion)
+
