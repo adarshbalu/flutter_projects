@@ -1,5 +1,5 @@
 # Flutter Projects 
-A repo for all the projects done on Flutter.
+A repo for all my the projects done on Flutter.
 
 ### Covid Track
 Covid tracker with global data as well as updated Indian data as well.
