@@ -11,3 +11,8 @@ Movie and TV show search app made using BLOC pattern.
 <br>
 Repo link : [Moooviex](https://github.com/adarshbalu/moooviex)
 
+### Elderly Care
+Complete Elderly Care Application with reminders and other handly features for elders.
+<br>
+Repo link : [Elderly Care](https://github.com/adarshbalu/elderly_app)
+
