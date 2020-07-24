@@ -21,3 +21,7 @@ Companion app for Elderly Care Application with health trackers and documents vi
 <br>
 Repo link : [Elderly Companion](https://github.com/adarshbalu/elderly_companion)
 
+### Note Worthy
+A minimal Note taking Application built using Flutter and Moor Library.
+<br>
+Repo link : [Elderly Companion](https://github.com/adarshbalu/note_worthy)
