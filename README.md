@@ -36,3 +36,9 @@ Repo link : [Un Check](https://github.com/adarshbalu/un_check)
 Dart plugin for Twilio API services like sms and calls.
 <br>
 Repo link : [twilio_flutter](https://github.com/adarshbalu/twilio_flutter)
+
+
+### Binge Music
+Binge Music is a random music player that selects songs randomly from the users device and plays them.
+<br>
+Repo link : [Binge Music](https://github.com/adarshbalu/binge_music)
