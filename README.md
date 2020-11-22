@@ -31,6 +31,12 @@ Shopping list app made using Flutter and Hive Library.
 <br>
 Repo link : [Un Check](https://github.com/adarshbalu/un_check)
 
+### Rise_Set
+Sunrise and Sunset prediction app made using Flutter employing Clean Architecture and Test Driven Development.
+<br>
+Repo link : [rise_set](https://github.com/adarshbalu/rise_set)
+
+
 
 ### Twilio_flutter
 Dart plugin for Twilio API services like sms and calls.
